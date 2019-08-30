@@ -3,4 +3,4 @@ my first repository
 
 hi Humans!
 
-thank you for read my first repository
+thank you for reading my first repository
